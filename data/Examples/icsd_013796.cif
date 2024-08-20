@@ -1,0 +1,106 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_13796-ICSD
+_database_code_ICSD 13796
+_audit_creation_date 2021-02-01
+_chemical_name_common 'Disodium mercury ditin hexaselenide'
+_chemical_formula_structural 'Na2 Hg Sn2 Se6'
+_chemical_formula_sum 'Hg1 Na2 Se6 Sn2'
+_exptl_crystal_density_diffrn 5.1
+_citation_title
+
+;
+Functional chalcogenide Na$_2$HgSn$_2$Se$_6$ and K$_2$MnGe$_2$Se$_6$
+exhibiting flexible chain structure and intriguing birefringence tunability
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2020 59 7614 7621 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Li, Zhuang'
+primary 'Liu, Youquan'
+primary 'Zhang, Shengzi'
+primary 'Xing, Wenhao'
+primary 'Yin, Wenlong'
+primary 'Lin, Zheshuai'
+primary 'Yao, Jiyong'
+primary 'Wu, Yicheng'
+_cell_length_a 7.8571(4)
+_cell_length_b 7.8571(4)
+_cell_length_c 20.2138(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1247.88
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'I 4/m c m'
+_space_group_IT_number 140
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'y, x, -z+1/2'
+2 '-y, -x, -z+1/2'
+3 '-y, x, -z'
+4 'y, -x, -z'
+5 'x, -y, -z+1/2'
+6 '-x, y, -z+1/2'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y, -x, z+1/2'
+10 'y, x, z+1/2'
+11 'y, -x, z'
+12 '-y, x, z'
+13 '-x, y, z+1/2'
+14 'x, -y, z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+17 'y+1/2, x+1/2, -z'
+18 '-y+1/2, -x+1/2, -z'
+19 '-y+1/2, x+1/2, -z+1/2'
+20 'y+1/2, -x+1/2, -z+1/2'
+21 'x+1/2, -y+1/2, -z'
+22 '-x+1/2, y+1/2, -z'
+23 'x+1/2, y+1/2, -z+1/2'
+24 '-x+1/2, -y+1/2, -z+1/2'
+25 '-y+1/2, -x+1/2, z'
+26 'y+1/2, x+1/2, z'
+27 'y+1/2, -x+1/2, z+1/2'
+28 '-y+1/2, x+1/2, z+1/2'
+29 '-x+1/2, y+1/2, z'
+30 'x+1/2, -y+1/2, z'
+31 '-x+1/2, -y+1/2, z+1/2'
+32 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hg2+ 2
+Sn4+ 4
+Se2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Hg1 Hg2+ 4 b 0.5 0 0.75 0.0445(3) 1.
+Sn1 Sn4+ 8 g 0.5 0 0.58500(2) 0.0187(2) 1.
+Se1 Se2- 16 l 0.32107(6) 0.82107(6) 0.66027(3) 0.0216(2) 1.
+Se2 Se2- 8 h 0.67143(8) 0.82857(8) 0.5 0.0221(2) 1.
+Na1 Na1+ 8 f 0 0 0.6940(20) 0.057(9) 0.25
+Na2 Na1+ 8 f 0 0 0.6566(19) 0.045(7) 0.25
+Na3 Na1+ 8 f 0 0 0.6207(12) 0.039(4) 0.25
+Na4 Na1+ 8 f 0 0 0.5915(10) 0.034(4) 0.25
+#End of TTdata_13796-ICSD
+#

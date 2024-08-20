@@ -1,0 +1,96 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_181418-ICSD
+_database_code_ICSD 181418
+_audit_creation_date 2012-02-01
+_chemical_name_common 'Copper gallium selenide (0.8/2/4)'
+_chemical_formula_structural 'Cu0.8 Ga2.4 Se4'
+_chemical_formula_sum 'Cu0.8 Ga2.4 Se4'
+_chemical_name_structure_type Cu2HgI4
+_exptl_crystal_density_diffrn 5.32
+_diffrn_ambient_temperature 293.
+_citation_title
+
+;
+Long-range structure of Cu (Inx Ga1-x)3 Se5: a complementary neutron and
+anomalous X-ray diffraction study
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Applied Physics (Melville, NY, United States)' 2011 109 1 11
+JAPIAU
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Lehmann, S.'
+primary 'Fuertes Marron, D.'
+primary 'Leon, M.'
+primary 'Feyerherm, R.'
+primary 'Dudzik, E.'
+primary 'Friedrich, E.J.'
+primary 'Tovar, M.'
+primary 'Tomm, Y.'
+primary 'Wolf, C.'
+primary 'Schorr, S.'
+primary 'Schedel-Niedrig, T.'
+primary 'Lux-Steiner, M.C.'
+primary 'Merino, J.M.'
+_cell_length_a 5.518(1)
+_cell_length_b 5.518(1)
+_cell_length_c 10.950(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 333.41
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'I -4 2 m'
+_space_group_IT_number 121
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-y, -x, z'
+2 'y, x, z'
+3 'y, -x, -z'
+4 '-y, x, -z'
+5 'x, -y, -z'
+6 '-x, y, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-y+1/2, -x+1/2, z+1/2'
+10 'y+1/2, x+1/2, z+1/2'
+11 'y+1/2, -x+1/2, -z+1/2'
+12 '-y+1/2, x+1/2, -z+1/2'
+13 'x+1/2, -y+1/2, -z+1/2'
+14 '-x+1/2, y+1/2, -z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu1+ 1
+Ga3+ 3
+Cu1+ 1
+Ga3+ 3
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Cu1 Cu1+ 2 a 0 0 0 . 0.235(15)
+Ga1 Ga3+ 2 b 0 0 0.5 . 1.000(25)
+Cu2 Cu1+ 4 d 0 0.5 0.25 . 0.283(23)
+Ga2 Ga3+ 4 d 0 0.5 0.25 . 0.697(23)
+Se1 Se2- 8 i 0.232(2) 0.232(2) 0.116(1) . 1.
+#End of TTdata_181418-ICSD
+#

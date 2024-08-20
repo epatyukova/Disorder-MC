@@ -1,0 +1,91 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_20759-ICSD
+_database_code_ICSD 20759
+_audit_creation_date 2022-02-01
+_chemical_name_common 'Cesium triiodidoplumbate'
+_chemical_formula_structural 'Cs Pb I3'
+_chemical_formula_sum 'Cs1 I3 Pb1'
+_chemical_name_structure_type (Ca,Li)(Zr,Ta)O3
+_exptl_crystal_density_diffrn 5.13
+_diffrn_ambient_temperature 150.
+_citation_title
+
+;
+Understanding the instability of the halide perovskite CsPbI$_3$ through
+temperature-dependent structural analysis
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Advanced Materials (Weinheim, Germany)' 2020 32 '' '' ADVMEW
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Straus, Daniel B.'
+primary 'Guo, Shu'
+primary 'Abeykoon, A.M. Milinda'
+primary 'Cava, Robert J.'
+_cell_length_a 8.9418(8)
+_cell_length_b 12.4285(12)
+_cell_length_c 8.3930(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 932.74
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n m a'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+I1- -1
+Cs1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Pb1 Pb2+ 4 b 0. 0.5 0.5 0.01615(7) 1
+I1 I1- 8 d 0.30549(4) 0.53672(3) 0.31237(5) 0.02488(10) 1
+I2 I1- 4 c 0.00348(7) 0.25 0.42597(8) 0.03225(15) 1
+Cs1 Cs1+ 4 c 0.5777(2) 0.75 0.47066(15) 0.0323(3) 0.988(6)
+Cs2 Cs1+ 4 c 0.520(16) 0.75 0.505(11) 0.0323(3) 0.012(6)
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 Pb2+ 0.01541(14) 0.01479(12) 0.01824(14) -0.00011(11) -0.00002(13)
+0.00107(11)
+I1 I1- 0.02081(19) 0.03154(19) 0.02229(19) -0.00246(16) 0.00856(17) -0.00119(16)
+I2 I1- 0.0405(3) 0.0107(2) 0.0455(4) 0. -0.0114(3) 0.
+Cs1 Cs1+ 0.0307(7) 0.0255(3) 0.0409(4) 0. -0.0056(4) 0.
+Cs2 Cs1+ 0.0307(7) 0.0255(3) 0.0409(4) 0. -0.0056(4) 0.
+#End of TTdata_20759-ICSD
+#

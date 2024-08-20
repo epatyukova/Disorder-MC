@@ -1,0 +1,78 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_236616-ICSD
+_database_code_ICSD 236616
+_audit_creation_date 2014-08-01
+_chemical_name_common 'Neodymium calcium cobalt oxide (0.6/0.4/1/2.81)'
+_chemical_formula_structural '(Nd0.6 Ca0.4) Co O2.81'
+_chemical_formula_sum 'Ca0.4 Co1 Nd0.6 O2.81'
+_chemical_name_structure_type Perovskite#GdFeO3
+_exptl_crystal_density_diffrn 6.37
+_citation_title
+
+;
+Structural, transport, and magnetic properties of narrow bandwidth Nd1-x Cax
+Co O3-delta and comparisons to Pr1-x Cax Co O3-delta
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review B: Condensed Matter and Materials Physics' 2013 88 1 11
+PRBMDO
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Phelan, D.'
+primary 'Suzuki, Y.'
+primary 'Wang, S.'
+primary 'Huq, A.'
+primary 'Leighton, C.'
+_cell_length_a 5.3378(2)
+_cell_length_b 7.5420(2)
+_cell_length_c 5.3439(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 215.13
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n m a'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nd3+ 3
+Ca2+ 2
+Co3+ 3.03
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Nd1 Nd3+ 4 c 0.0317(3) 0.25 -0.0048(6) . 0.6
+Ca1 Ca2+ 4 c 0.0352(3) 0.25 -0.0055(5) . 0.4
+Co1 Co3+ 4 b 0 0 0.5 . 1.
+O1 O2- 4 c 0.4908(5) 0.25 0.0662(6) . 0.938
+O2 O2- 8 d 0.2861(4) 0.0371(2) 0.7146(4) . 0.938
+#End of TTdata_236616-ICSD
+#
