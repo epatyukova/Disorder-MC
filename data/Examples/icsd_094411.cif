@@ -1,0 +1,89 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_94411-ICSD
+_database_code_ICSD 94411
+_audit_creation_date 2003-10-01
+_chemical_name_common 'Calcium cobalt arsenide (2/12/7)'
+_chemical_formula_structural 'Ca2 Co12 As7'
+_chemical_formula_sum 'As7 Ca2 Co12'
+_chemical_name_structure_type Ca2Co12As7
+_exptl_crystal_density_diffrn 7.59
+_citation_title 'Neue Erdalkalimetall-Phosphide und -Arsenide des Cobalts'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2001
+627 1357 1364 ZAACAB
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Hellmann, A.'
+primary 'Mewis, A.'
+_cell_length_a 9.428(5)
+_cell_length_b 9.428(5)
+_cell_length_c 3.728(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 286.98
+_cell_formula_units_Z 1
+_space_group_name_H-M_alt 'P 63/m'
+_space_group_IT_number 176
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca0+ 0
+Co0+ 0
+As0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Ca1 Ca0+ 2 d 0.6667 0.3333 0.25 . 1.
+Co1 Co0+ 6 h 0.0519(1) 0.4319(1) 0.25 . 1.
+Co2 Co0+ 6 h 0.2216(1) 0.1235(1) 0.25 . 0.460(2)
+Co3 Co0+ 6 h 0.2746(1) 0.1546(1) 0.25 . 0.540(2)
+As1 As0+ 6 h 0.2911(1) 0.4080(1) 0.25 . 1.
+As2 As0+ 2 a 0 0 0.25 . 0.5
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 Ca0+ 0.0072(2) 0.0072(2) 0.0045(3) 0.0036(1) 0. 0.
+Co1 Co0+ 0.0064(1) 0.0058(1) 0.0053(1) 0.0031(1) 0. 0.
+Co2 Co0+ 0.0122(4) 0.0081(4) 0.0068(3) 0.0061(3) 0. 0.
+Co3 Co0+ 0.0088(3) 0.0066(3) 0.0043(3) 0.0050(3) 0. 0.
+As1 As0+ 0.0057(1) 0.0054(1) 0.0037(1) 0.0028(1) 0. 0.
+As2 As0+ 0.0050(2) 0.0050(2) 0.0101(3) 0.0025(1) 0. 0.
+#End of TTdata_94411-ICSD
+#

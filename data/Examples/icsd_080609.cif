@@ -1,0 +1,83 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_80609-ICSD
+_database_code_ICSD 80609
+_audit_creation_date 1997-05-13
+_audit_update_record 2017-08-01
+_chemical_name_common 'Iridium telluride (2.9/8)'
+_chemical_formula_structural 'Ir2.915 Te8'
+_chemical_formula_sum 'Ir2.915 Te8'
+_chemical_name_structure_type Rh3Te8
+_exptl_crystal_density_diffrn 9.98
+_diffrn_ambient_temperature 273.
+_citation_title 'Crystal structure of polymeric pyrite type Ir3Te8'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1991 95 319 326 JSSCBI
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Jobic, Stephane'
+primary 'Evain, Michel'
+primary 'Brec, Raymond'
+primary 'Deniard, Philippe'
+primary 'Jouanneaux, Alain'
+primary 'Rouxel, Jean'
+_cell_length_a 6.4113(3)
+_cell_length_b 6.4113(3)
+_cell_length_c 6.4113(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 263.53
+_cell_formula_units_Z 1
+_space_group_name_H-M_alt 'R -3 R'
+_space_group_IT_number 148
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-z, -x, -y'
+2 '-y, -z, -x'
+3 '-x, -y, -z'
+4 'z, x, y'
+5 'y, z, x'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ir3+ 3
+Te1- -1.1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Ir1 Ir3+ 3 e 0.5 0.5 0 0.97(3) 0.737(1)
+Ir2 Ir3+ 1 a 0 0 0 0.68(1) 0.704(3)
+Te1 Te1- 2 c 0.3722(1) 0.3722(1) 0.3722(1) . 1.
+Te2 Te1- 6 f 0.8724(1) 0.1273(1) 0.6276(1) . 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ir1 Ir3+ 0.0070(4) 0.0079(4) 0.0161(7) -.0005(4) -.0010(5) 0.0007(5)
+Ir2 Ir3+ 0.0056(3) 0.0056(3) 0.0056(3) 0.0004(4) 0.0004(4) 0.0004(4)
+Te1 Te1- 0.0111(3) 0.0111(3) 0.0111(3) 0.0012(3) 0.0012(3) 0.0012(3)
+Te2 Te1- 0.0114(4) 0.0113(4) 0.0228(7) -.0007(3) -.0015(5) 0.0011(5)
+#End of TTdata_80609-ICSD
+#

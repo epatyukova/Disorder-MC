@@ -1,0 +1,100 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_420708-ICSD
+_database_code_ICSD 420708
+_audit_creation_date 2010-02-01
+_chemical_name_common 'Europium calcium nickel zinc (1.63/1.37/2/2.93)'
+_chemical_formula_structural '(Eu1.63 Ca1.37) Ni2 Zn2.93'
+_chemical_formula_sum 'Ca1.37 Eu1.63 Ni2 Zn2.93'
+_exptl_crystal_density_diffrn 5.65
+_diffrn_ambient_temperature 298.
+_citation_title
+'Europium substitution into intermetallic phases grown in Ca/Zn flux'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2009 182 2239 2245 JSSCBI
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Stojanovic, M.'
+primary 'Latturner, S.E.'
+_cell_length_a 4.1150(5)
+_cell_length_b 16.9476(19)
+_cell_length_c 10.3018(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 718.44
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'C m c m'
+_space_group_IT_number 63
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Eu0+ 0
+Ca0+ 0
+Eu0+ 0
+Ca0+ 0
+Ni0+ 0
+Zn0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Eu1 Eu0+ 8 f 0. 0.34579(5) 0.44410(9) 0.0168(3) 0.576(6)
+Ca1 Ca0+ 8 f 0. 0.34579(5) 0.44410(9) 0.0168(3) 0.424(6)
+Eu2 Eu0+ 4 c 0. 0.12023(8) 0.25 0.0146(5) 0.481(4)
+Ca2 Ca0+ 4 c 0. 0.12023(8) 0.25 0.0146(5) 0.481(4)
+Ni1 Ni0+ 8 f 0. 0.49264(8) 0.63119(14) 0.0117(4) 1
+Zn1 Zn0+ 4 a 0. 0. 0.5 0.0134(5) 1
+Zn2 Zn0+ 4 c 0.5 0.44188(12) 0.25 0.0169(5) 1
+Zn3 Zn0+ 4 c 0. 0.23460(14) 0.75 0.0229(8) 0.934(11)
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Eu1 Eu0+ 0.0173(5) 0.0156(5) 0.0175(5) 0. 0. 0.0006(3)
+Ca1 Ca0+ 0.0173(5) 0.0156(5) 0.0175(5) 0. 0. 0.0006(3)
+Eu2 Eu0+ 0.0166(7) 0.0140(7) 0.0132(7) 0. 0. 0.
+Ca2 Ca0+ 0.0166(7) 0.0140(7) 0.0132(7) 0. 0. 0.
+Ni1 Ni0+ 0.0110(6) 0.0156(7) 0.0084(7) 0. 0. 0.0016(5)
+Zn1 Zn0+ 0.0119(9) 0.0182(9) 0.0100(9) 0. 0. 0.0008(7)
+Zn2 Zn0+ 0.0175(10) 0.0192(10) 0.0140(9) 0. 0. 0.
+Zn3 Zn0+ 0.0224(13) 0.0221(13) 0.0242(13) 0. 0. 0.
+#End of TTdata_420708-ICSD
+#

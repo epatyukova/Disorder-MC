@@ -1,0 +1,118 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_73976-ICSD
+_database_code_ICSD 73976
+_audit_creation_date 1995-01-10
+_audit_update_record 2015-02-01
+_chemical_name_common 'Sodium barium cobalt fluoride (4/0.9/3.1/12)'
+_chemical_formula_structural 'Na3 (Na0.13 Ba0.87) (Co0.782 Na0.217)4 F12'
+_chemical_formula_sum 'Ba0.87 Co3.128 F12 Na3.998'
+_chemical_name_structure_type Quadruple_Perovskite#LaMn3Ti4O12
+_exptl_crystal_density_diffrn 4.02
+_citation_title
+
+;
+The new series of fluoride perovskites Na4BaxM4-xF12 (M=Mn,Fe,Co) and
+Na4-xLixBaxCo4-xF12: homogeneity range and crystal and magnetic structures
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1993 107 387 396 JSSCBI
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Ducau, M.'
+primary 'Roisnel, T.'
+primary 'Darriet, J.'
+_cell_length_a 8.0185(1)
+_cell_length_b 8.0185(1)
+_cell_length_c 8.0185(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 515.56
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'I m -3'
+_space_group_IT_number 204
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-z, x, y'
+2 'z, x, -y'
+3 'z, -x, y'
+4 '-z, -x, -y'
+5 'y, -z, x'
+6 '-y, z, x'
+7 'y, z, -x'
+8 '-y, -z, -x'
+9 'x, y, -z'
+10 'x, -y, z'
+11 '-x, y, z'
+12 '-x, -y, -z'
+13 'z, -x, -y'
+14 '-z, -x, y'
+15 '-z, x, -y'
+16 'z, x, y'
+17 '-y, z, -x'
+18 'y, -z, -x'
+19 '-y, -z, x'
+20 'y, z, x'
+21 '-x, -y, z'
+22 '-x, y, -z'
+23 'x, -y, -z'
+24 'x, y, z'
+25 '-z+1/2, x+1/2, y+1/2'
+26 'z+1/2, x+1/2, -y+1/2'
+27 'z+1/2, -x+1/2, y+1/2'
+28 '-z+1/2, -x+1/2, -y+1/2'
+29 'y+1/2, -z+1/2, x+1/2'
+30 '-y+1/2, z+1/2, x+1/2'
+31 'y+1/2, z+1/2, -x+1/2'
+32 '-y+1/2, -z+1/2, -x+1/2'
+33 'x+1/2, y+1/2, -z+1/2'
+34 'x+1/2, -y+1/2, z+1/2'
+35 '-x+1/2, y+1/2, z+1/2'
+36 '-x+1/2, -y+1/2, -z+1/2'
+37 'z+1/2, -x+1/2, -y+1/2'
+38 '-z+1/2, -x+1/2, y+1/2'
+39 '-z+1/2, x+1/2, -y+1/2'
+40 'z+1/2, x+1/2, y+1/2'
+41 '-y+1/2, z+1/2, -x+1/2'
+42 'y+1/2, -z+1/2, -x+1/2'
+43 '-y+1/2, -z+1/2, x+1/2'
+44 'y+1/2, z+1/2, x+1/2'
+45 '-x+1/2, -y+1/2, z+1/2'
+46 '-x+1/2, y+1/2, -z+1/2'
+47 'x+1/2, -y+1/2, -z+1/2'
+48 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ba2+ 2
+Co2+ 2
+Na1+ 1
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Na1 Na1+ 12 e 0.9502(9) 0 0.5 0.1 0.5
+Na2 Na1+ 2 a 0 0 0 0.73 0.131
+Ba1 Ba2+ 2 a 0 0 0 0.73 0.869
+Co1 Co2+ 8 c 0.25 0.25 0.25 0.36 0.782
+Na3 Na1+ 8 c 0.25 0.25 0.25 0.36 0.217
+F1 F1- 24 g 0 0.3029(4) 0.2129(4) 0.8 1.
+#End of TTdata_73976-ICSD
+#
