@@ -92,6 +92,8 @@ Configurational entropy is calculated analytically for S, V, SV orbits, and Mont
 
 **analysis.ipynb**:  script allowing to reproduce graphics from the paper
 
+**StructureTypes.ipynb**: calculation of Wyckoff disorder sequences, and fractions of sites wth each disorder type
+
 ## Acknowledgements
 
 Authors thank the Leverhulme Trust for funding through the Leverhulme Research Centre for Functional Materials Design (RC-2015-036).
