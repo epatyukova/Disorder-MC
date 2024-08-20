@@ -26,7 +26,6 @@ conda env create -f env.yml
       <ul>
         <li> disorder_examples.ipynb </li>
         <li> data_extraction.py </li>
-        <li> data_extraction_H_compounds.ipynb </li>
         <li> analysis.ipynb </li>
       </ul>
       </li>
@@ -81,19 +80,15 @@ output = disorder.classify()
 from disorder.entropy import Entropy
 
 entropy=Entropy(CIF_file, radius_file='data/all_radii.csv')
-mixing_entropy=entropy.calculate_entropy(entropy_type='mixing')
-configurational_entropy=entropy.calculate_entropy(entropy_type='configurational')
-mc_configurational_entropy=entropy.calculate_entropy(entropy_type='mc_configurational')
+configurational_entropy=entropy.calculate_entropy()
 ```
-Formulas used for entropy calculation can be found in the paper. Mixing and configurational entropies are calculates using analytical formulas. MC_configurational is a monte carlo estimation of configurational entropy. All three values differ from each other only if positional disorder is present. 
+Configurational entropy is calculated analytically for S, V, SV orbits, and Monte Carlo is used to estimate the reduction in entropy due to site intersection for VP and SVP orbits.
 
 ### Jupyter notebooks
 
 **disorder_examples.ipynb** : this notebook demonstrates classification of examples from the paper
 
 **data_extraction.py**: the notebook contains a script to extract disorder data from the database of CIFs, compounds containing H are discarded
-
-**data_extraction_H_compounds.ipynb**: the notebook contains a script to extract disorder data from compounds containing H
 
 **analysis.ipynb**:  script allowing to reproduce graphics from the paper
 
