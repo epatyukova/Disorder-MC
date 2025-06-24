@@ -118,9 +118,9 @@ Authors thank the Leverhulme Trust for funding through the Leverhulme Research C
 
 ## Citation
 
-I suggested the idea of the paper, wrote this paper and the code during my time at Rosseinsky group. However, due to the conflict with management and disagreement over the correct way to calculate the entropy, I had to take my name from the list of co-authors. And due to complains of my former co-authros, I am not allowed to share the correct version of the paper.
+Unfortunately, due to the actions of the University of Liverpool on behave of one of my previous co-authors, I can't share the full version of the correct paper. Science should be open, but it is not.
 
-The paper was published in Journal of Applied Crystallography:
+The paper which was published in Journal of Applied Crystallography:
 
 ```
 @article{patyukova2024disorder,
@@ -133,4 +133,5 @@ The paper was published in Journal of Applied Crystallography:
   doi={https://doi.org/10.1107/S1600576725003000}
 }
 ```
+ 
 
