@@ -8,7 +8,7 @@
 
 In this work, we aimed to analyze the content of the ICSD database. This database contains experimental data on structures of inorganic compounds determined with X-ray and neutron scattering. These methods show only spatially averaged disorder. To perform analysis, we introduced a classification of different types of disorders and introduced features to describe them. I also suggested including disorder information in the description of structure types.
 
-The main montivation behind this work was to develop a way to describe disordered compounds and use available experimental data in the area of materials discovery.
+The main motivation behind this work was to develop a way to describe disordered compounds and use available experimental data in the area of materials discovery.
 
 This repository describes the correct model and code for the paper [citation is at the bottom]. There are 2 main differences between the versions of the paper:
 (1) Disorder classification is different. In this paper, the classification of compounds is based on the classification of crystallographic orbits. The following classes of orbits are distinguished: 
@@ -18,7 +18,7 @@ This repository describes the correct model and code for the paper [citation is 
 * vacancies (V);
 * combination of substitutional disorder and vacancies (SV);
 * combination of vacancies and positional disorder (VP): these are cases when there are two sites of one or several orbits which are too close to each other to be occupied simultaniously, and both of them have partial occupancies;
-* combination of substitutional disorder, vacansies, and positional disorder (SVP): the situation here is the same as in (VP) but the sites are occupied by more than 1 type of species.
+* combination of substitutional disorder, vacancies, and positional disorder (SVP): the situation here is the same as in (VP) but the sites are occupied by more than 1 type of species.
 
 (2) Calculation of configurational entropy is different. It plays the role for positionally disordered orbits (VP and SVP). Here, it is estimated with the Monte Carlo method.
 
