@@ -6,14 +6,14 @@
 
 50% of entries in the inorganic crystal structure database (ICSD) have structural disorder (defined as the presence of partial occupancies). Disorder brings many complications. Characterization (for example, ICSD contains only spatially average structures, so partial structural information), modeling (supercells, averaging over replicas, temperature dependence of disorder, etc.), and structure prediction (non-existent for disordered materials) are often a challenge. However, it also brings opportunities to tune the material properties.
 
-In this work we wanted to analyse a content of ICSD database. This database contains experimental data on structures of inorganic compounds determined with X-ray and neutron scattering. These methods show only spacially averaged disorder. To perform analysis we introduced classification of different types of disorder and introduced features to describe it.
+In this work, we aimed to analyze the content of the ICSD database. This database contains experimental data on structures of inorganic compounds determined with X-ray and neutron scattering. These methods show only spatially averaged disorder. To perform analysis, we introduced a classification of different types of disorders and introduced features to describe them. I also suggested including disorder information in the description of structure types.
 
-The main montivation behind this work was to develop a way to describe disordered compounds and use evalible experimental data in the area of materials discovery.
+The main montivation behind this work was to develop a way to describe disordered compounds and use available experimental data in the area of materials discovery.
 
-This repository describes the correct model and code to the paper [citation]. There are 2 main differences between the virsions of the paper:
-(1) Classification if different. Classification of compounds is based on classification of crystallographic orbits. Here we distinguish the following classes of orbits: (1) ordered (O); (2) substitutionally disordered (S); (3) vacancies (V); (4) combination of substitutional disorder and vacancies (SV); (5) combination of vacancies and positional disorder (VP): these are cases when there are two sites of one or several orbits which are too close to each other to be occupied simultaniously, and both of them have partial occupancies; (6) combination of substitutional disorder, vacansies, and positional disorder (SVP): the situation here is the same as in (VP) but the sites are occupied by more than 1 type of species.
+This repository describes the correct model and code for the paper [citation is at the bottom]. There are 2 main differences between the versions of the paper:
+(1) Classification if different. Classification of compounds is based on the classification of crystallographic orbits. Here we distinguish the following classes of orbits: (1) ordered (O); (2) substitutionally disordered (S); (3) vacancies (V); (4) combination of substitutional disorder and vacancies (SV); (5) combination of vacancies and positional disorder (VP): these are cases when there are two sites of one or several orbits which are too close to each other to be occupied simultaniously, and both of them have partial occupancies; (6) combination of substitutional disorder, vacansies, and positional disorder (SVP): the situation here is the same as in (VP) but the sites are occupied by more than 1 type of species.
 
-(2) Calculation of configrational entropy is different. It plays the role for positionally disordered orbits (VP and SVP). Here it is estimated with Monte Carlo method.
+(2) Calculation of configurational entropy is different. It plays the role for positionally disordered orbits (VP and SVP). Here, it is estimated with the Monte Carlo method.
 
 To use the code:
 
