@@ -11,7 +11,14 @@ In this work, we aimed to analyze the content of the ICSD database. This databas
 The main montivation behind this work was to develop a way to describe disordered compounds and use available experimental data in the area of materials discovery.
 
 This repository describes the correct model and code for the paper [citation is at the bottom]. There are 2 main differences between the versions of the paper:
-(1) Classification if different. Classification of compounds is based on the classification of crystallographic orbits. Here we distinguish the following classes of orbits: (1) ordered (O); (2) substitutionally disordered (S); (3) vacancies (V); (4) combination of substitutional disorder and vacancies (SV); (5) combination of vacancies and positional disorder (VP): these are cases when there are two sites of one or several orbits which are too close to each other to be occupied simultaniously, and both of them have partial occupancies; (6) combination of substitutional disorder, vacansies, and positional disorder (SVP): the situation here is the same as in (VP) but the sites are occupied by more than 1 type of species.
+(1) Disorder classification is different. In this paper, the classification of compounds is based on the classification of crystallographic orbits. The following classes of orbits are distinguished: 
+
+* ordered (O);
+* substitutionally disordered (S);
+* vacancies (V);
+* combination of substitutional disorder and vacancies (SV);
+* combination of vacancies and positional disorder (VP): these are cases when there are two sites of one or several orbits which are too close to each other to be occupied simultaniously, and both of them have partial occupancies;
+* combination of substitutional disorder, vacansies, and positional disorder (SVP): the situation here is the same as in (VP) but the sites are occupied by more than 1 type of species.
 
 (2) Calculation of configurational entropy is different. It plays the role for positionally disordered orbits (VP and SVP). Here, it is estimated with the Monte Carlo method.
 
