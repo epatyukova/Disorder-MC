@@ -4,6 +4,17 @@
   <img src="data/paper-idea-small.png" width="500"/>
 </p>
 
+50% of entries in the inorganic crystal structure database (ICSD) have structural disorder (defined as the presence of partial occupancies). Disorder brings many complications. Characterization (for example, ICSD contains only spatially average structures, so partial structural information), modeling (supercells, averaging over replicas, temperature dependence of disorder, etc.), and structure prediction (non-existent for disordered materials) are often a challenge. However, it also brings opportunities to tune the material properties.
+
+In this work we wanted to analyse a content of ICSD database. This database contains experimental data on structures of inorganic compounds determined with X-ray and neutron scattering. These methods show only spacially averaged disorder. To perform analysis we introduced classification of different types of disorder and introduced features to describe it.
+
+The main montivation behind this work was to develop a way to describe disordered compounds and use evalible experimental data in the area of materials discovery.
+
+This repository describes the correct model and code to the paper [citation]. There are 2 main differences between the virsions of the paper:
+(1) Classification if different. Classification of compounds is based on classification of crystallographic orbits. Here we distinguish the following classes of orbits: (1) ordered (O); (2) substitutionally disordered (S); (3) vacancies (V); (4) combination of substitutional disorder and vacancies (SV); (5) combination of vacancies and positional disorder (VP): these are cases when there are two sites of one or several orbits which are too close to each other to be occupied simultaniously, and both of them have partial occupancies; (6) combination of substitutional disorder, vacansies, and positional disorder (SVP): the situation here is the same as in (VP) but the sites are occupied by more than 1 type of species.
+
+(2) Calculation of configrational entropy is different. It plays the role for positionally disordered orbits (VP and SVP). Here it is estimated with Monte Carlo method.
+
 To use the code:
 
 (1) clone repositiory using your favourite method
@@ -100,12 +111,19 @@ Authors thank the Leverhulme Trust for funding through the Leverhulme Research C
 
 ## Citation
 
+I suggested the idea of the paper, wrote this paper and the code during my time at Rosseinsky group. However, due to the conflict with management and disagreement over the correct way to calculate the entropy, I had to take my name from the list of co-authors. 
+
+The paper was published in Journal of Applied Crystallography:
+
 ```
 @article{patyukova2024disorder,
   title={Classification and statistical analysis of structural disorder in crystalline materials},
-  author={Patyukova, Elena and Collins, Chris M. and Dyer, Matthew S. and Antypov, Dmytro and Claridge, John B. and Rosseinsky, Matthew J.},
-  year={2024}
+  author={Dmytro Antypov, Chris M. Collins, Matthew S. Dyer,b John B. Claridgeb and Matthew J. Rosseinsky},
+  year={2025},
+  journal={J. Appl. Cryst.},
+  pages={659-677},
+  issue={58},
+  doi={https://doi.org/10.1107/S1600576725003000}
 }
 ```
-The paper can be found in the repository
 
