@@ -111,7 +111,7 @@ Authors thank the Leverhulme Trust for funding through the Leverhulme Research C
 
 ## Citation
 
-I suggested the idea of the paper, wrote this paper and the code during my time at Rosseinsky group. However, due to the conflict with management and disagreement over the correct way to calculate the entropy, I had to take my name from the list of co-authors. 
+I suggested the idea of the paper, wrote this paper and the code during my time at Rosseinsky group. However, due to the conflict with management and disagreement over the correct way to calculate the entropy, I had to take my name from the list of co-authors. And due to complains of my former co-authros, I am not allowed to share the correct version of the paper.
 
 The paper was published in Journal of Applied Crystallography:
 
