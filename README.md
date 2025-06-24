@@ -118,7 +118,7 @@ Authors thank the Leverhulme Trust for funding through the Leverhulme Research C
 
 ## Citation
 
-I am the ex-first author of this work, and I produced all the results, the code, and the paper. I withdrew my authorship because my co-authors decided to avoid the correct model. Unfortunately, due to the actions of the University of Liverpool on behalf of one of my previous co-authors, I can't share the full version of the correct paper for the interested readers to make their own judgment, and have the full picture. Science should be open, but it is not.
+I am the ex-first author of this work, and I produced all the results, the code, and co-wrote the paper. I withdrew my authorship because my co-authors decided to avoid the correct model. Unfortunately, due to the actions of the University of Liverpool on behalf of one of my previous co-authors, I can't share the full version of the correct paper for the interested readers to make their own judgment, and have the full picture. Science should be open, but it is not.
 
 The paper which was published in Journal of Applied Crystallography:
 
